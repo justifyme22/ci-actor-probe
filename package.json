@@ -2,6 +2,6 @@
   "name": "ci-actor-probe",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.0"
+    "lodash": "4.18.1"
   }
 }
